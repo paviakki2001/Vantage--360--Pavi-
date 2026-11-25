@@ -1,0 +1,10 @@
+test,passed
+indirect injection,True
+session owner enforcement,True
+memory isolation,True
+cross-session cache isolation,True
+unsupported financial guarantee,True
+API timeout,True
+API dependency_error,True
+API invalid_response,True
+API http_503,True

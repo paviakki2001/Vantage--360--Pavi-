@@ -1,0 +1,99 @@
+{
+  "python_files": 70,
+  "contains_env": true,
+  "model_artifacts_present": false,
+  "routes": [
+    {
+      "file": "API/api/app/routers/churn.py",
+      "prefix": [
+        "/churn"
+      ],
+      "routes": [
+        [
+          "post",
+          "/predict"
+        ],
+        [
+          "post",
+          "/query"
+        ]
+      ]
+    },
+    {
+      "file": "API/api/app/routers/customer_intelligence.py",
+      "prefix": [
+        "/customer-intelligence"
+      ],
+      "routes": [
+        [
+          "post",
+          "/brief"
+        ]
+      ]
+    },
+    {
+      "file": "API/api/app/routers/forecast.py",
+      "prefix": [
+        "/forecast"
+      ],
+      "routes": [
+        [
+          "post",
+          "/predict"
+        ]
+      ]
+    },
+    {
+      "file": "API/api/app/routers/health.py",
+      "prefix": [
+        "/health"
+      ],
+      "routes": []
+    },
+    {
+      "file": "API/api/app/routers/metrics.py",
+      "prefix": [
+        "/metrics"
+      ],
+      "routes": []
+    },
+    {
+      "file": "API/api/app/routers/readiness.py",
+      "prefix": [
+        "/readiness"
+      ],
+      "routes": []
+    },
+    {
+      "file": "API/api/app/routers/recommendation.py",
+      "prefix": [
+        "/recommendation"
+      ],
+      "routes": [
+        [
+          "post",
+          "/predict"
+        ]
+      ]
+    },
+    {
+      "file": "API/api/app/routers/report.py",
+      "prefix": [
+        "/report"
+      ],
+      "routes": [
+        [
+          "post",
+          "/generate"
+        ]
+      ]
+    }
+  ],
+  "limitations": [
+    "API prefix is environment configured",
+    "Model artifacts and governed CSV files must be supplied separately",
+    "Report service returns structured fields and empty insights; no LLM narrative",
+    "Role enum alone is not verified user authorization",
+    "Churn cache uses customer ID plus TTL; no artifact-version invalidation"
+  ]
+}

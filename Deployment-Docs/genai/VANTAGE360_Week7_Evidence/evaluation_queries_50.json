@@ -1,0 +1,452 @@
+[
+  {
+    "id": "Q01",
+    "query": "What definition and scope should we use for revenue?",
+    "relevant_ids": [
+      "D01"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q02",
+    "query": "What should an executive verify before using revenue in a decision?",
+    "relevant_ids": [
+      "D01"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q03",
+    "query": "Which limitations must be disclosed when reporting revenue?",
+    "relevant_ids": [
+      "D01"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q04",
+    "query": "What operational checks are required for revenue?",
+    "relevant_ids": [
+      "D01"
+    ],
+    "role": "operations",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q05",
+    "query": "How should the team validate evidence for revenue?",
+    "relevant_ids": [
+      "D01"
+    ],
+    "role": "operations",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q06",
+    "query": "What definition and scope should we use for retention?",
+    "relevant_ids": [
+      "D02"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q07",
+    "query": "What should an executive verify before using retention in a decision?",
+    "relevant_ids": [
+      "D02"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q08",
+    "query": "Which limitations must be disclosed when reporting retention?",
+    "relevant_ids": [
+      "D02"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q09",
+    "query": "What operational checks are required for retention?",
+    "relevant_ids": [
+      "D02"
+    ],
+    "role": "operations",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q10",
+    "query": "How should the team validate evidence for retention?",
+    "relevant_ids": [
+      "D02"
+    ],
+    "role": "operations",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q11",
+    "query": "What definition and scope should we use for campaign?",
+    "relevant_ids": [
+      "D03"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q12",
+    "query": "What should an executive verify before using campaign in a decision?",
+    "relevant_ids": [
+      "D03"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q13",
+    "query": "Which limitations must be disclosed when reporting campaign?",
+    "relevant_ids": [
+      "D03"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q14",
+    "query": "What operational checks are required for campaign?",
+    "relevant_ids": [
+      "D03"
+    ],
+    "role": "operations",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q15",
+    "query": "How should the team validate evidence for campaign?",
+    "relevant_ids": [
+      "D03"
+    ],
+    "role": "operations",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q16",
+    "query": "What definition and scope should we use for service?",
+    "relevant_ids": [
+      "D04"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q17",
+    "query": "What should an executive verify before using service in a decision?",
+    "relevant_ids": [
+      "D04"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q18",
+    "query": "Which limitations must be disclosed when reporting service?",
+    "relevant_ids": [
+      "D04"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q19",
+    "query": "What operational checks are required for service?",
+    "relevant_ids": [
+      "D04"
+    ],
+    "role": "operations",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q20",
+    "query": "How should the team validate evidence for service?",
+    "relevant_ids": [
+      "D04"
+    ],
+    "role": "operations",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q21",
+    "query": "What definition and scope should we use for forecast?",
+    "relevant_ids": [
+      "D05"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q22",
+    "query": "What should an executive verify before using forecast in a decision?",
+    "relevant_ids": [
+      "D05"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q23",
+    "query": "Which limitations must be disclosed when reporting forecast?",
+    "relevant_ids": [
+      "D05"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q24",
+    "query": "What operational checks are required for forecast?",
+    "relevant_ids": [
+      "D05"
+    ],
+    "role": "operations",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q25",
+    "query": "How should the team validate evidence for forecast?",
+    "relevant_ids": [
+      "D05"
+    ],
+    "role": "operations",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q26",
+    "query": "What definition and scope should we use for refresh?",
+    "relevant_ids": [
+      "D06"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q27",
+    "query": "What should an executive verify before using refresh in a decision?",
+    "relevant_ids": [
+      "D06"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q28",
+    "query": "Which limitations must be disclosed when reporting refresh?",
+    "relevant_ids": [
+      "D06"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q29",
+    "query": "What operational checks are required for refresh?",
+    "relevant_ids": [
+      "D06"
+    ],
+    "role": "operations",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q30",
+    "query": "How should the team validate evidence for refresh?",
+    "relevant_ids": [
+      "D06"
+    ],
+    "role": "operations",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q31",
+    "query": "What definition and scope should we use for cache?",
+    "relevant_ids": [
+      "D07"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q32",
+    "query": "What should an executive verify before using cache in a decision?",
+    "relevant_ids": [
+      "D07"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q33",
+    "query": "Which limitations must be disclosed when reporting cache?",
+    "relevant_ids": [
+      "D07"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q34",
+    "query": "What operational checks are required for cache?",
+    "relevant_ids": [
+      "D07"
+    ],
+    "role": "operations",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q35",
+    "query": "How should the team validate evidence for cache?",
+    "relevant_ids": [
+      "D07"
+    ],
+    "role": "operations",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q36",
+    "query": "What definition and scope should we use for privacy?",
+    "relevant_ids": [
+      "D08"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q37",
+    "query": "What should an executive verify before using privacy in a decision?",
+    "relevant_ids": [
+      "D08"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q38",
+    "query": "Which limitations must be disclosed when reporting privacy?",
+    "relevant_ids": [
+      "D08"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q39",
+    "query": "What operational checks are required for privacy?",
+    "relevant_ids": [
+      "D08"
+    ],
+    "role": "operations",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q40",
+    "query": "How should the team validate evidence for privacy?",
+    "relevant_ids": [
+      "D08"
+    ],
+    "role": "operations",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q41",
+    "query": "What definition and scope should we use for rollback?",
+    "relevant_ids": [
+      "D09"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q42",
+    "query": "What should an executive verify before using rollback in a decision?",
+    "relevant_ids": [
+      "D09"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q43",
+    "query": "Which limitations must be disclosed when reporting rollback?",
+    "relevant_ids": [
+      "D09"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q44",
+    "query": "What operational checks are required for rollback?",
+    "relevant_ids": [
+      "D09"
+    ],
+    "role": "operations",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q45",
+    "query": "How should the team validate evidence for rollback?",
+    "relevant_ids": [
+      "D09"
+    ],
+    "role": "operations",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q46",
+    "query": "What definition and scope should we use for lineage?",
+    "relevant_ids": [
+      "D10"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q47",
+    "query": "What should an executive verify before using lineage in a decision?",
+    "relevant_ids": [
+      "D10"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q48",
+    "query": "Which limitations must be disclosed when reporting lineage?",
+    "relevant_ids": [
+      "D10"
+    ],
+    "role": "executive",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q49",
+    "query": "What operational checks are required for lineage?",
+    "relevant_ids": [
+      "D10"
+    ],
+    "role": "operations",
+    "tenant": "demo"
+  },
+  {
+    "id": "Q50",
+    "query": "How should the team validate evidence for lineage?",
+    "relevant_ids": [
+      "D10"
+    ],
+    "role": "operations",
+    "tenant": "demo"
+  }
+]

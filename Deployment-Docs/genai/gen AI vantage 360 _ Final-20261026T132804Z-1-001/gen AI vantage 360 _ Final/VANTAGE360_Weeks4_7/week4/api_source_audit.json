@@ -1,0 +1,109 @@
+{
+  "uploaded_file": "API (1).zip",
+  "python_files": 70,
+  "contains_env": true,
+  "model_artifact_files": [],
+  "csv_files": [],
+  "routes": [
+    {
+      "file": "API/api/app/routers/churn.py",
+      "prefix": [
+        "/churn"
+      ],
+      "routes": [
+        [
+          "post",
+          "/predict"
+        ],
+        [
+          "post",
+          "/query"
+        ]
+      ]
+    },
+    {
+      "file": "API/api/app/routers/customer_intelligence.py",
+      "prefix": [
+        "/customer-intelligence"
+      ],
+      "routes": [
+        [
+          "post",
+          "/brief"
+        ]
+      ]
+    },
+    {
+      "file": "API/api/app/routers/forecast.py",
+      "prefix": [
+        "/forecast"
+      ],
+      "routes": [
+        [
+          "post",
+          "/predict"
+        ]
+      ]
+    },
+    {
+      "file": "API/api/app/routers/health.py",
+      "prefix": [
+        "/health"
+      ],
+      "routes": [
+        [
+          "get",
+          ""
+        ]
+      ]
+    },
+    {
+      "file": "API/api/app/routers/metrics.py",
+      "prefix": [
+        "/metrics"
+      ],
+      "routes": [
+        [
+          "get",
+          ""
+        ]
+      ]
+    },
+    {
+      "file": "API/api/app/routers/readiness.py",
+      "prefix": [
+        "/readiness"
+      ],
+      "routes": [
+        [
+          "get",
+          ""
+        ]
+      ]
+    },
+    {
+      "file": "API/api/app/routers/recommendation.py",
+      "prefix": [
+        "/recommendation"
+      ],
+      "routes": [
+        [
+          "post",
+          "/predict"
+        ]
+      ]
+    },
+    {
+      "file": "API/api/app/routers/report.py",
+      "prefix": [
+        "/report"
+      ],
+      "routes": [
+        [
+          "post",
+          "/generate"
+        ]
+      ]
+    }
+  ]
+}

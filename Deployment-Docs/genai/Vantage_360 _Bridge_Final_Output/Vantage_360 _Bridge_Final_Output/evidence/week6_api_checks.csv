@@ -1,0 +1,8 @@
+check,purpose,status_code,expected,passed,interpretation
+health,Valid request,200,200,True,Expected behavior confirmed
+valid_churn,Valid request,200,200,True,Expected behavior confirmed
+valid_recommendation,Valid request,200,200,True,Expected behavior confirmed
+customer_intelligence,Valid request,200,200,True,Expected behavior confirmed
+missing_auth,Confirm unauthenticated requests are denied,401,401,True,Expected behavior confirmed
+invalid_payload,Deliberately empty request; 422 confirms input validation,422,422,True,Expected behavior confirmed
+report_missing_fields,Deliberately empty request; 422 confirms input validation,422,422,True,Expected behavior confirmed

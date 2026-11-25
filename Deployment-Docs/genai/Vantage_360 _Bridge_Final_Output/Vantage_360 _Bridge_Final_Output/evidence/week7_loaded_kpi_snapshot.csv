@@ -1,0 +1,133 @@
+snapshot_date,dimension,dimension_value,metric,value
+2026-11-05,region,Central,revenue,11162093.4
+2026-11-05,region,Central,orders,4810.0
+2026-11-05,region,East,revenue,11621914.1
+2026-11-05,region,East,orders,4887.0
+2026-11-05,region,North,revenue,11953665.3
+2026-11-05,region,North,orders,5058.0
+2026-11-05,region,South,revenue,12021676.35
+2026-11-05,region,South,orders,5070.0
+2026-11-05,region,West,revenue,11720534.7
+2026-11-05,region,West,orders,5101.0
+2026-11-05,product,PROD001,return_rate,0.15757109915449655
+2026-11-05,product,PROD001,returned_orders,205.0
+2026-11-05,product,PROD002,return_rate,0.15488215488215487
+2026-11-05,product,PROD002,returned_orders,184.0
+2026-11-05,product,PROD003,return_rate,0.17100078802206461
+2026-11-05,product,PROD003,returned_orders,217.0
+2026-11-05,product,PROD004,return_rate,0.1700626959247649
+2026-11-05,product,PROD004,returned_orders,217.0
+2026-11-05,product,PROD005,return_rate,0.16171875
+2026-11-05,product,PROD005,returned_orders,207.0
+2026-11-05,product,PROD006,return_rate,0.16099585062240665
+2026-11-05,product,PROD006,returned_orders,194.0
+2026-11-05,product,PROD007,return_rate,0.17346938775510204
+2026-11-05,product,PROD007,returned_orders,221.0
+2026-11-05,product,PROD008,return_rate,0.1483606557377049
+2026-11-05,product,PROD008,returned_orders,181.0
+2026-11-05,product,PROD009,return_rate,0.1551590380139643
+2026-11-05,product,PROD009,returned_orders,200.0
+2026-11-05,product,PROD010,return_rate,0.17521704814522493
+2026-11-05,product,PROD010,returned_orders,222.0
+2026-11-05,product,PROD011,return_rate,0.15284552845528454
+2026-11-05,product,PROD011,returned_orders,188.0
+2026-11-05,product,PROD012,return_rate,0.1856091578086672
+2026-11-05,product,PROD012,returned_orders,227.0
+2026-11-05,product,PROD013,return_rate,0.16458658346333854
+2026-11-05,product,PROD013,returned_orders,211.0
+2026-11-05,product,PROD014,return_rate,0.17694155324259409
+2026-11-05,product,PROD014,returned_orders,221.0
+2026-11-05,product,PROD015,return_rate,0.16449511400651465
+2026-11-05,product,PROD015,returned_orders,202.0
+2026-11-05,product,PROD016,return_rate,0.15136876006441224
+2026-11-05,product,PROD016,returned_orders,188.0
+2026-11-05,product,PROD017,return_rate,0.15106215578284815
+2026-11-05,product,PROD017,returned_orders,192.0
+2026-11-05,product,PROD018,return_rate,0.15604575163398693
+2026-11-05,product,PROD018,returned_orders,191.0
+2026-11-05,product,PROD019,return_rate,0.16379310344827586
+2026-11-05,product,PROD019,returned_orders,209.0
+2026-11-05,product,PROD020,return_rate,0.19236883942766295
+2026-11-05,product,PROD020,returned_orders,242.0
+2026-11-05,product,PROD021,return_rate,0.164578111946533
+2026-11-05,product,PROD021,returned_orders,197.0
+2026-11-05,product,PROD022,return_rate,0.16524701873935263
+2026-11-05,product,PROD022,returned_orders,194.0
+2026-11-05,product,PROD023,return_rate,0.16771653543307086
+2026-11-05,product,PROD023,returned_orders,213.0
+2026-11-05,product,PROD024,return_rate,0.16693037974683544
+2026-11-05,product,PROD024,returned_orders,211.0
+2026-11-05,product,PROD025,return_rate,0.16557377049180327
+2026-11-05,product,PROD025,returned_orders,202.0
+2026-11-05,product,PROD026,return_rate,0.16216216216216217
+2026-11-05,product,PROD026,returned_orders,198.0
+2026-11-05,product,PROD027,return_rate,0.14917127071823205
+2026-11-05,product,PROD027,returned_orders,189.0
+2026-11-05,product,PROD028,return_rate,0.1750599520383693
+2026-11-05,product,PROD028,returned_orders,219.0
+2026-11-05,product,PROD029,return_rate,0.16680567139282734
+2026-11-05,product,PROD029,returned_orders,200.0
+2026-11-05,product,PROD030,return_rate,0.1747498075442648
+2026-11-05,product,PROD030,returned_orders,227.0
+2026-11-05,product,PROD031,return_rate,0.16785998408910102
+2026-11-05,product,PROD031,returned_orders,211.0
+2026-11-05,product,PROD032,return_rate,0.16356275303643725
+2026-11-05,product,PROD032,returned_orders,202.0
+2026-11-05,product,PROD033,return_rate,0.1905165114309907
+2026-11-05,product,PROD033,returned_orders,225.0
+2026-11-05,product,PROD034,return_rate,0.1498447204968944
+2026-11-05,product,PROD034,returned_orders,193.0
+2026-11-05,product,PROD035,return_rate,0.1507618283881315
+2026-11-05,product,PROD035,returned_orders,188.0
+2026-11-05,product,PROD036,return_rate,0.1523076923076923
+2026-11-05,product,PROD036,returned_orders,198.0
+2026-11-05,product,PROD037,return_rate,0.1612167300380228
+2026-11-05,product,PROD037,returned_orders,212.0
+2026-11-05,product,PROD038,return_rate,0.16957210776545167
+2026-11-05,product,PROD038,returned_orders,214.0
+2026-11-05,product,PROD039,return_rate,0.15270935960591134
+2026-11-05,product,PROD039,returned_orders,186.0
+2026-11-05,product,PROD040,return_rate,0.1652377240841777
+2026-11-05,product,PROD040,returned_orders,212.0
+2026-11-05,campaign_type,Display Ad,roi_proxy,26.220319347442334
+2026-11-05,campaign_type,Display Ad,revenue_generated,629161334.84
+2026-11-05,campaign_type,Email,roi_proxy,24.015563372537788
+2026-11-05,campaign_type,Email,revenue_generated,555599049.97
+2026-11-05,campaign_type,Push Notification,roi_proxy,18.577132058796195
+2026-11-05,campaign_type,Push Notification,revenue_generated,484711278.68
+2026-11-05,campaign_type,SMS,roi_proxy,27.240702839096564
+2026-11-05,campaign_type,SMS,revenue_generated,675337285.14
+2026-11-05,campaign_type,Social Media,roi_proxy,19.44094736976087
+2026-11-05,campaign_type,Social Media,revenue_generated,519310668.74
+2026-11-05,issue_type,App Issue,ticket_count,1013.0
+2026-11-05,issue_type,App Issue,avg_response_time_hrs,36.84590325765055
+2026-11-05,issue_type,App Issue,avg_csat,2.406050955414013
+2026-11-05,issue_type,App Issue,escalation_rate,0.20829220138203355
+2026-11-05,issue_type,Delayed Delivery,ticket_count,988.0
+2026-11-05,issue_type,Delayed Delivery,avg_response_time_hrs,35.00647773279352
+2026-11-05,issue_type,Delayed Delivery,avg_csat,2.2953795379537953
+2026-11-05,issue_type,Delayed Delivery,escalation_rate,0.21761133603238866
+2026-11-05,issue_type,General Query,ticket_count,980.0
+2026-11-05,issue_type,General Query,avg_response_time_hrs,36.66428571428571
+2026-11-05,issue_type,General Query,avg_csat,2.315966386554622
+2026-11-05,issue_type,General Query,escalation_rate,0.21020408163265306
+2026-11-05,issue_type,Payment Failed,ticket_count,1025.0
+2026-11-05,issue_type,Payment Failed,avg_response_time_hrs,36.29775609756097
+2026-11-05,issue_type,Payment Failed,avg_csat,2.310569105691057
+2026-11-05,issue_type,Payment Failed,escalation_rate,0.2448780487804878
+2026-11-05,issue_type,Product Defect,ticket_count,1030.0
+2026-11-05,issue_type,Product Defect,avg_response_time_hrs,35.05300970873786
+2026-11-05,issue_type,Product Defect,avg_csat,2.4130781499202554
+2026-11-05,issue_type,Product Defect,escalation_rate,0.21844660194174756
+2026-11-05,issue_type,Refund Query,ticket_count,1034.0
+2026-11-05,issue_type,Refund Query,avg_response_time_hrs,36.82717601547389
+2026-11-05,issue_type,Refund Query,avg_csat,2.2963576158940397
+2026-11-05,issue_type,Refund Query,escalation_rate,0.24177949709864605
+2026-11-05,issue_type,Return Request,ticket_count,955.0
+2026-11-05,issue_type,Return Request,avg_response_time_hrs,36.8751832460733
+2026-11-05,issue_type,Return Request,avg_csat,2.3653846153846154
+2026-11-05,issue_type,Return Request,escalation_rate,0.20732984293193718
+2026-11-05,issue_type,Wrong Item,ticket_count,975.0
+2026-11-05,issue_type,Wrong Item,avg_response_time_hrs,35.925435897435904
+2026-11-05,issue_type,Wrong Item,avg_csat,2.397236614853195
+2026-11-05,issue_type,Wrong Item,escalation_rate,0.2164102564102564

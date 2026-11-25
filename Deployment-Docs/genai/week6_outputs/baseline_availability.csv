@@ -1,0 +1,4 @@
+version,artifact_available,comparison_status
+v1,False,NOT_TESTED_MISSING_ARTIFACT
+v2,False,NOT_TESTED_MISSING_ARTIFACT
+v3,False,NOT_TESTED_MISSING_ARTIFACT

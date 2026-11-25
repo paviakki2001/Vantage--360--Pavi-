@@ -1,0 +1,11 @@
+{
+  "same_scope_hit": true,
+  "changed_watermark_miss": true,
+  "unknown_freshness_miss": true,
+  "ttl_expired": true,
+  "changed_filter_miss": true,
+  "tenant_isolation": true,
+  "principal_isolation": true,
+  "role_isolation": true,
+  "session_isolation": true
+}

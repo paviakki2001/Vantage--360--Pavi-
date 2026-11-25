@@ -1,0 +1,5 @@
+area,result,passed,total
+Week 6 HTTP checks,PASS,7,7
+Week 6 local checks,PASS,7,7
+Week 7 functional queries,PASS,50,50
+Week 7 local cache checks,PASS,11,11

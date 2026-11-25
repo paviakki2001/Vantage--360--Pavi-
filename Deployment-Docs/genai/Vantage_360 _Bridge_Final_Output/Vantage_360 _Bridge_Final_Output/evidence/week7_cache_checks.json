@@ -1,0 +1,13 @@
+{
+  "successful_source_answer": true,
+  "first_miss": true,
+  "repeat_hit": true,
+  "unchanged_answer": true,
+  "source_change_abstains": true,
+  "tenant_cache_key_separation": true,
+  "user_cache_key_separation": true,
+  "session_cache_key_separation": true,
+  "role_cache_key_separation": true,
+  "ttl_expiry": true,
+  "unknown_freshness_abstains": true
+}

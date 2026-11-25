@@ -1,0 +1,13 @@
+file,decision,detail
+week1_data_profile.csv,INCLUDED,Readable CSV with required columns; business accuracy requires the corresponding validation results.
+churn_predictions_all_customers.csv,INCLUDED,Readable CSV with required columns; business accuracy requires the corresponding validation results.
+churn_predictions_high_medium.csv,INCLUDED,Readable CSV with required columns; business accuracy requires the corresponding validation results.
+week5_prompt_library.csv,INCLUDED,Readable CSV with required columns; business accuracy requires the corresponding validation results.
+week6_api_checks.csv,INCLUDED,Readable CSV with required columns; business accuracy requires the corresponding validation results.
+week6_local_checks.csv,INCLUDED,Readable CSV with required columns; business accuracy requires the corresponding validation results.
+week7_retrieval_comparison.csv,INCLUDED,Readable CSV with required columns; business accuracy requires the corresponding validation results.
+week7_retrieval_summary.csv,INCLUDED,Readable CSV with required columns; business accuracy requires the corresponding validation results.
+week7_business_evaluation_50.csv,INCLUDED,Readable CSV with required columns; business accuracy requires the corresponding validation results.
+week7_loaded_kpi_snapshot.csv,INCLUDED,Readable CSV with required columns; business accuracy requires the corresponding validation results.
+week7_cache_checks.json,INCLUDED,Cache result structure validated.
+VANTAGE360_Final_Evidence.xlsx,GENERATED,Rebuilt from selected saved evidence; long text may be shortened in Excel. CSV retains full text.

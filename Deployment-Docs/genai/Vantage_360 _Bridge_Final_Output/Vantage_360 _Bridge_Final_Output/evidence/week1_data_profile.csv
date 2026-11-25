@@ -1,0 +1,6 @@
+dataset,rows,columns,duplicate_rows,missing_cells
+customers,5000,11,0,0
+products,40,10,0,0
+transactions,50000,12,0,3782
+customer_support,8000,11,0,4319
+marketing_campaigns,500,12,0,0

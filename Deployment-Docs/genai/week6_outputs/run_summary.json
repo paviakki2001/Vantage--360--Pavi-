@@ -1,0 +1,12 @@
+{
+  "week": 6,
+  "generated_at": "2026-10-26T14:55:13.119390+00:00",
+  "queries_attempted": 40,
+  "routing_accuracy": 1.0,
+  "answer_quality_review": "PENDING",
+  "api_configured": false,
+  "docker_compose_validation": "PENDING_EXTERNAL_TEAM",
+  "observability_trace_validation": "PENDING_EXTERNAL_TEAM",
+  "baseline_v1_v2_v3_regression": "PENDING_IMPORTED_BASELINES",
+  "production_signoff": "NOT_ASSERTED"
+}

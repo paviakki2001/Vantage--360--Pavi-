@@ -1,0 +1,3 @@
+filename,rows,columns,zip_path
+cleaned_customer_support.csv,8000,11,Gen AI Vantage 360 datasets _Final-20261026T121858Z-1-001/Gen AI Vantage 360 datasets _Final/cleaned_customer_support.csv
+cleaned_marketing_campaigns.csv,500,12,Gen AI Vantage 360 datasets _Final-20261026T121858Z-1-001/Gen AI Vantage 360 datasets _Final/cleaned_marketing_campaigns.csv

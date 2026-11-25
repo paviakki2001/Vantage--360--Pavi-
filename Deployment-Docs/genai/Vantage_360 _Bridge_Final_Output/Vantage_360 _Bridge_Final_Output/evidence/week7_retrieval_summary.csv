@@ -1,0 +1,3 @@
+method,queries,hit1,hit3,hit5,mean_latency_ms
+fusion,25,1.0,1.0,1.0,8.029532399887103
+tfidf,25,1.0,1.0,1.0,3.909512319951318

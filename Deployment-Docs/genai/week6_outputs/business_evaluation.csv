@@ -1,0 +1,89 @@
+query_id,question,expected_route,actual_route,routing_correct,expected_agent,actual_agent,status,backend_success,latency_ms,citations,answer,expected_answer,reference_source,numerical_accuracy,groundedness,citation_support,relevance,business_usefulness,reviewer,review_status
+Q001,What is revenue this month?,kpi,kpi,True,Analytics Agent,Analytics Agent,missing_evidence,False,20.61,[],"Executive Answer
+No matching fresh governed KPI evidence. Request the approved KPI snapshot from DA.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q002,Show the customer count.,kpi,kpi,True,Analytics Agent,Analytics Agent,missing_evidence,False,8.95,[],"Executive Answer
+No matching fresh governed KPI evidence. Request the approved KPI snapshot from DA.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q003,What is the retention rate?,kpi,kpi,True,Analytics Agent,Analytics Agent,missing_evidence,False,4.45,[],"Executive Answer
+No matching fresh governed KPI evidence. Request the approved KPI snapshot from DA.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q004,Show campaign ROI.,kpi,kpi,True,Analytics Agent,Analytics Agent,missing_evidence,False,4.34,[],"Executive Answer
+No matching fresh governed KPI evidence. Request the approved KPI snapshot from DA.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q005,What is support SLA?,kpi,kpi,True,Analytics Agent,Analytics Agent,missing_evidence,False,8.5,[],"Executive Answer
+No matching fresh governed KPI evidence. Request the approved KPI snapshot from DA.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q006,What is return rate?,kpi,kpi,True,Analytics Agent,Analytics Agent,missing_evidence,False,8.83,[],"Executive Answer
+No matching fresh governed KPI evidence. Request the approved KPI snapshot from DA.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q007,Show customer LTV.,kpi,kpi,True,Analytics Agent,Analytics Agent,missing_evidence,False,10.94,[],"Executive Answer
+No matching fresh governed KPI evidence. Request the approved KPI snapshot from DA.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q008,Compare revenue across regions.,kpi,kpi,True,Analytics Agent,Analytics Agent,missing_evidence,False,4.05,[],"Executive Answer
+No matching fresh governed KPI evidence. Request the approved KPI snapshot from DA.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q009,Why did revenue decline?,investigate,investigate,True,Analytics Agent,Analytics Agent,missing_evidence,False,5.3,[],"Executive Answer
+No matching fresh governed KPI evidence. Request the approved KPI snapshot from DA.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q010,Investigate retention changes.,investigate,investigate,True,Analytics Agent,Analytics Agent,missing_evidence,False,4.29,[],"Executive Answer
+No matching fresh governed KPI evidence. Request the approved KPI snapshot from DA.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q011,Investigate campaign performance.,investigate,investigate,True,Analytics Agent,Analytics Agent,missing_evidence,False,6.9,[],"Executive Answer
+No matching fresh governed KPI evidence. Request the approved KPI snapshot from DA.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q012,Identify an anomaly in revenue.,investigate,investigate,True,Analytics Agent,Analytics Agent,missing_evidence,False,9.34,[],"Executive Answer
+No matching fresh governed KPI evidence. Request the approved KPI snapshot from DA.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q013,Investigate customer count changes.,investigate,investigate,True,Analytics Agent,Analytics Agent,missing_evidence,False,7.71,[],"Executive Answer
+No matching fresh governed KPI evidence. Request the approved KPI snapshot from DA.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q014,Why has support SLA declined?,investigate,investigate,True,Analytics Agent,Analytics Agent,missing_evidence,False,5.27,[],"Executive Answer
+No matching fresh governed KPI evidence. Request the approved KPI snapshot from DA.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q015,Investigate return rate changes.,investigate,investigate,True,Analytics Agent,Analytics Agent,missing_evidence,False,4.46,[],"Executive Answer
+No matching fresh governed KPI evidence. Request the approved KPI snapshot from DA.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q016,Investigate LTV changes.,investigate,investigate,True,Analytics Agent,Analytics Agent,missing_evidence,False,4.85,[],"Executive Answer
+No matching fresh governed KPI evidence. Request the approved KPI snapshot from DA.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q017,Forecast revenue next month.,forecast,forecast,True,Predictive Agent,Predictive Agent,unavailable,False,0.35,[],"Executive Answer
+The required service is unavailable or failed; no prediction is supplied.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q018,What is the demand outlook?,forecast,forecast,True,Predictive Agent,Predictive Agent,unavailable,False,0.1,[],"Executive Answer
+The required service is unavailable or failed; no prediction is supplied.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q019,Show future revenue.,forecast,forecast,True,Predictive Agent,Predictive Agent,unavailable,False,0.13,[],"Executive Answer
+The required service is unavailable or failed; no prediction is supplied.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q020,Forecast the next quarter.,forecast,forecast,True,Predictive Agent,Predictive Agent,unavailable,False,0.07,[],"Executive Answer
+The required service is unavailable or failed; no prediction is supplied.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q021,Show the approved forecast.,forecast,forecast,True,Predictive Agent,Predictive Agent,unavailable,False,0.06,[],"Executive Answer
+The required service is unavailable or failed; no prediction is supplied.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q022,Forecast revenue by region.,forecast,forecast,True,Predictive Agent,Predictive Agent,unavailable,False,0.06,[],"Executive Answer
+The required service is unavailable or failed; no prediction is supplied.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q023,Show demand outlook next month.,forecast,forecast,True,Predictive Agent,Predictive Agent,unavailable,False,0.06,[],"Executive Answer
+The required service is unavailable or failed; no prediction is supplied.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q024,What does the revenue forecast indicate?,forecast,forecast,True,Predictive Agent,Predictive Agent,unavailable,False,0.06,[],"Executive Answer
+The required service is unavailable or failed; no prediction is supplied.
+Business impact: requires business-owner review.",,,,,,,,,PENDING
+Q025,Show churn for CUST00123.,churn,churn,True,Customer Intelligence Agent,Customer Intelligence Agent,denied,False,,[],Customer-level access is not enabled for this demonstration.,,,,,,,,,PENDING
+Q026,What is the attrition risk for CUST00123?,churn,churn,True,Customer Intelligence Agent,Customer Intelligence Agent,denied,False,,[],Customer-level access is not enabled for this demonstration.,,,,,,,,,PENDING
+Q027,Show risk score for CUST00123.,churn,churn,True,Customer Intelligence Agent,Customer Intelligence Agent,denied,False,,[],Customer-level access is not enabled for this demonstration.,,,,,,,,,PENDING
+Q028,Which customers have high churn?,churn,churn,True,Customer Intelligence Agent,Customer Intelligence Agent,denied,False,,[],Customer-level access is not enabled for this demonstration.,,,,,,,,,PENDING
+Q029,Explain customer attrition.,churn,churn,True,Customer Intelligence Agent,Customer Intelligence Agent,denied,False,,[],Customer-level access is not enabled for this demonstration.,,,,,,,,,PENDING
+Q030,Show high-value customer churn.,churn,churn,True,Customer Intelligence Agent,Customer Intelligence Agent,denied,False,,[],Customer-level access is not enabled for this demonstration.,,,,,,,,,PENDING
+Q031,Show churn model evidence.,churn,churn,True,Customer Intelligence Agent,Customer Intelligence Agent,denied,False,,[],Customer-level access is not enabled for this demonstration.,,,,,,,,,PENDING
+Q032,What is the customer risk score?,churn,churn,True,Customer Intelligence Agent,Customer Intelligence Agent,denied,False,,[],Customer-level access is not enabled for this demonstration.,,,,,,,,,PENDING
+Q033,Recommend an action for CUST00123.,recommendation,recommendation,True,Customer Intelligence Agent,Customer Intelligence Agent,denied,False,,[],Customer-level access is not enabled for this demonstration.,,,,,,,,,PENDING
+Q034,Show next best action for CUST00123.,recommendation,recommendation,True,Customer Intelligence Agent,Customer Intelligence Agent,denied,False,,[],Customer-level access is not enabled for this demonstration.,,,,,,,,,PENDING
+Q035,Suggest a cross-sell for CUST00123.,recommendation,recommendation,True,Customer Intelligence Agent,Customer Intelligence Agent,denied,False,,[],Customer-level access is not enabled for this demonstration.,,,,,,,,,PENDING
+Q036,Recommend retention action.,recommendation,recommendation,True,Customer Intelligence Agent,Customer Intelligence Agent,denied,False,,[],Customer-level access is not enabled for this demonstration.,,,,,,,,,PENDING
+Q037,Recommend a product.,recommendation,recommendation,True,Customer Intelligence Agent,Customer Intelligence Agent,denied,False,,[],Customer-level access is not enabled for this demonstration.,,,,,,,,,PENDING
+Q038,Show approved recommendations.,recommendation,recommendation,True,Customer Intelligence Agent,Customer Intelligence Agent,denied,False,,[],Customer-level access is not enabled for this demonstration.,,,,,,,,,PENDING
+Q039,Recommend an action for high-value customers.,recommendation,recommendation,True,Customer Intelligence Agent,Customer Intelligence Agent,denied,False,,[],Customer-level access is not enabled for this demonstration.,,,,,,,,,PENDING
+Q040,What next best action is supported?,recommendation,recommendation,True,Customer Intelligence Agent,Customer Intelligence Agent,denied,False,,[],Customer-level access is not enabled for this demonstration.,,,,,,,,,PENDING
