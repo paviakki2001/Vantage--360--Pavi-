@@ -1,0 +1,8 @@
+Deployment-Docs/
+└── api/
+    ├── .gitkeep
+    ├── requirements.txt
+    └── app/
+        ├── main.py
+        ├── config.py
+        └── routers/
