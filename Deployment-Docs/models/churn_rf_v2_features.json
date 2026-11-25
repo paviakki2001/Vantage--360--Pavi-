@@ -1,0 +1,18 @@
+{
+  "feature_cols": [
+    "age",
+    "lifetime_revenue",
+    "avg_order_value",
+    "customer_tenure_days",
+    "purchase_frequency_per_year",
+    "returned_transactions",
+    "return_rate",
+    "product_category_diversity",
+    "support_interactions",
+    "resolved_tickets",
+    "escalated_tickets",
+    "avg_csat",
+    "avg_discount_pct"
+  ],
+  "model_version": "rf-v2-official-proxy"
+}

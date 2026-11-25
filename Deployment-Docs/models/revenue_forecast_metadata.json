@@ -1,0 +1,8 @@
+{
+  "model_version": "prophet-baseline-v1",
+  "training_period": "2023-01 to 2024-12",
+  "mape_holdout": 0.0549,
+  "rmse_holdout": 151900,
+  "yearly_seasonality": false,
+  "limitation": "Only 24 months of history \u2014 seasonality disabled, forecast does not capture month-to-month volatility"
+}

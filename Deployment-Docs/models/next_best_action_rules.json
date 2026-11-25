@@ -1,0 +1,12 @@
+{
+  "rules_priority_order": [
+    "High risk + High/Mid-High LTV -> retention_offer",
+    "High risk -> re_engagement_campaign",
+    "Premium segment + Medium/High risk -> premium_outreach",
+    "Medium risk + High/Mid-High LTV -> monitor_and_retain",
+    "escalated_tickets >= 2 OR avg_csat < 2 -> support_follow_up",
+    "Low risk + High LTV + low category diversity -> cross_sell_opportunity",
+    "default -> no_action_needed"
+  ],
+  "model_version": "rule-based-v2"
+}

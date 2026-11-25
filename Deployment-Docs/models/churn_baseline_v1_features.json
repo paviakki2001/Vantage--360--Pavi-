@@ -1,0 +1,17 @@
+{
+  "feature_cols": [
+    "age",
+    "total_orders",
+    "total_revenue",
+    "avg_order_value",
+    "delivered_orders",
+    "tenure_days",
+    "purchase_frequency",
+    "return_count",
+    "return_rate",
+    "category_diversity",
+    "support_ticket_count",
+    "avg_csat"
+  ],
+  "model_version": "baseline-v1"
+}

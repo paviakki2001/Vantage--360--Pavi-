@@ -1,0 +1,584 @@
+[
+  {
+    "customer_id": "CUST00001",
+    "prediction": "low_risk",
+    "risk_score": 0.2707,
+    "risk_category": "Low",
+    "top_factors": [
+      "frequent_support_contact"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00002",
+    "prediction": "high_risk",
+    "risk_score": 0.768,
+    "risk_category": "High",
+    "top_factors": [
+      "high_recency",
+      "low_purchase_frequency"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00003",
+    "prediction": "medium_risk",
+    "risk_score": 0.4542,
+    "risk_category": "Medium",
+    "top_factors": [
+      "no_dominant_risk_factor"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00004",
+    "prediction": "medium_risk",
+    "risk_score": 0.3744,
+    "risk_category": "Medium",
+    "top_factors": [
+      "high_return_rate",
+      "frequent_support_contact"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00005",
+    "prediction": "medium_risk",
+    "risk_score": 0.6237,
+    "risk_category": "Medium",
+    "top_factors": [
+      "low_purchase_frequency",
+      "frequent_support_contact"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00006",
+    "prediction": "medium_risk",
+    "risk_score": 0.5034,
+    "risk_category": "Medium",
+    "top_factors": [
+      "low_purchase_frequency",
+      "high_return_rate"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00007",
+    "prediction": "medium_risk",
+    "risk_score": 0.478,
+    "risk_category": "Medium",
+    "top_factors": [
+      "low_purchase_frequency",
+      "frequent_support_contact"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00008",
+    "prediction": "medium_risk",
+    "risk_score": 0.5258,
+    "risk_category": "Medium",
+    "top_factors": [
+      "low_purchase_frequency"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00009",
+    "prediction": "medium_risk",
+    "risk_score": 0.501,
+    "risk_category": "Medium",
+    "top_factors": [
+      "low_purchase_frequency"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00010",
+    "prediction": "medium_risk",
+    "risk_score": 0.4998,
+    "risk_category": "Medium",
+    "top_factors": [
+      "low_purchase_frequency"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00011",
+    "prediction": "low_risk",
+    "risk_score": 0.3189,
+    "risk_category": "Low",
+    "top_factors": [
+      "no_dominant_risk_factor"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00012",
+    "prediction": "medium_risk",
+    "risk_score": 0.5814,
+    "risk_category": "Medium",
+    "top_factors": [
+      "low_purchase_frequency",
+      "high_return_rate"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00013",
+    "prediction": "medium_risk",
+    "risk_score": 0.6069,
+    "risk_category": "Medium",
+    "top_factors": [
+      "low_purchase_frequency",
+      "high_return_rate"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00014",
+    "prediction": "medium_risk",
+    "risk_score": 0.4627,
+    "risk_category": "Medium",
+    "top_factors": [
+      "high_return_rate"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00015",
+    "prediction": "low_risk",
+    "risk_score": 0.2596,
+    "risk_category": "Low",
+    "top_factors": [
+      "no_dominant_risk_factor"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00016",
+    "prediction": "medium_risk",
+    "risk_score": 0.4899,
+    "risk_category": "Medium",
+    "top_factors": [
+      "high_return_rate"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00017",
+    "prediction": "medium_risk",
+    "risk_score": 0.6079,
+    "risk_category": "Medium",
+    "top_factors": [
+      "high_recency",
+      "low_purchase_frequency",
+      "high_return_rate"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00018",
+    "prediction": "medium_risk",
+    "risk_score": 0.4548,
+    "risk_category": "Medium",
+    "top_factors": [
+      "frequent_support_contact"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00019",
+    "prediction": "medium_risk",
+    "risk_score": 0.4005,
+    "risk_category": "Medium",
+    "top_factors": [
+      "high_recency",
+      "high_return_rate"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00020",
+    "prediction": "medium_risk",
+    "risk_score": 0.4968,
+    "risk_category": "Medium",
+    "top_factors": [
+      "low_purchase_frequency",
+      "high_return_rate"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00021",
+    "prediction": "medium_risk",
+    "risk_score": 0.658,
+    "risk_category": "Medium",
+    "top_factors": [
+      "low_purchase_frequency",
+      "high_return_rate",
+      "frequent_support_contact"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00022",
+    "prediction": "medium_risk",
+    "risk_score": 0.4997,
+    "risk_category": "Medium",
+    "top_factors": [
+      "low_purchase_frequency",
+      "high_return_rate"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00023",
+    "prediction": "high_risk",
+    "risk_score": 0.7953,
+    "risk_category": "High",
+    "top_factors": [
+      "high_recency",
+      "low_purchase_frequency",
+      "high_return_rate"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00024",
+    "prediction": "high_risk",
+    "risk_score": 0.6722,
+    "risk_category": "High",
+    "top_factors": [
+      "low_purchase_frequency",
+      "high_return_rate"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00025",
+    "prediction": "medium_risk",
+    "risk_score": 0.549,
+    "risk_category": "Medium",
+    "top_factors": [
+      "high_recency",
+      "low_purchase_frequency",
+      "high_return_rate"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00026",
+    "prediction": "medium_risk",
+    "risk_score": 0.5099,
+    "risk_category": "Medium",
+    "top_factors": [
+      "low_purchase_frequency"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00027",
+    "prediction": "low_risk",
+    "risk_score": 0.2931,
+    "risk_category": "Low",
+    "top_factors": [
+      "high_return_rate",
+      "frequent_support_contact"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00028",
+    "prediction": "medium_risk",
+    "risk_score": 0.4824,
+    "risk_category": "Medium",
+    "top_factors": [
+      "low_purchase_frequency",
+      "high_return_rate"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00029",
+    "prediction": "low_risk",
+    "risk_score": 0.2493,
+    "risk_category": "Low",
+    "top_factors": [
+      "high_return_rate"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00030",
+    "prediction": "medium_risk",
+    "risk_score": 0.3454,
+    "risk_category": "Medium",
+    "top_factors": [
+      "high_return_rate"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00031",
+    "prediction": "medium_risk",
+    "risk_score": 0.4078,
+    "risk_category": "Medium",
+    "top_factors": [
+      "high_return_rate"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00032",
+    "prediction": "medium_risk",
+    "risk_score": 0.3534,
+    "risk_category": "Medium",
+    "top_factors": [
+      "frequent_support_contact"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00033",
+    "prediction": "medium_risk",
+    "risk_score": 0.4757,
+    "risk_category": "Medium",
+    "top_factors": [
+      "frequent_support_contact"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00034",
+    "prediction": "medium_risk",
+    "risk_score": 0.6261,
+    "risk_category": "Medium",
+    "top_factors": [
+      "low_purchase_frequency",
+      "frequent_support_contact"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00035",
+    "prediction": "medium_risk",
+    "risk_score": 0.4304,
+    "risk_category": "Medium",
+    "top_factors": [
+      "high_return_rate",
+      "frequent_support_contact"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00036",
+    "prediction": "medium_risk",
+    "risk_score": 0.538,
+    "risk_category": "Medium",
+    "top_factors": [
+      "low_purchase_frequency",
+      "frequent_support_contact"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00037",
+    "prediction": "medium_risk",
+    "risk_score": 0.5983,
+    "risk_category": "Medium",
+    "top_factors": [
+      "low_purchase_frequency",
+      "frequent_support_contact"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00038",
+    "prediction": "medium_risk",
+    "risk_score": 0.6395,
+    "risk_category": "Medium",
+    "top_factors": [
+      "low_purchase_frequency",
+      "high_return_rate",
+      "frequent_support_contact"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00039",
+    "prediction": "high_risk",
+    "risk_score": 0.7335,
+    "risk_category": "High",
+    "top_factors": [
+      "high_recency",
+      "low_purchase_frequency",
+      "frequent_support_contact"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00040",
+    "prediction": "medium_risk",
+    "risk_score": 0.5483,
+    "risk_category": "Medium",
+    "top_factors": [
+      "low_purchase_frequency",
+      "high_return_rate"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00041",
+    "prediction": "low_risk",
+    "risk_score": 0.2815,
+    "risk_category": "Low",
+    "top_factors": [
+      "frequent_support_contact"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00042",
+    "prediction": "low_risk",
+    "risk_score": 0.2101,
+    "risk_category": "Low",
+    "top_factors": [
+      "no_dominant_risk_factor"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00043",
+    "prediction": "low_risk",
+    "risk_score": 0.2628,
+    "risk_category": "Low",
+    "top_factors": [
+      "high_return_rate"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00044",
+    "prediction": "low_risk",
+    "risk_score": 0.326,
+    "risk_category": "Low",
+    "top_factors": [
+      "no_dominant_risk_factor"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00045",
+    "prediction": "medium_risk",
+    "risk_score": 0.5399,
+    "risk_category": "Medium",
+    "top_factors": [
+      "low_purchase_frequency"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00046",
+    "prediction": "high_risk",
+    "risk_score": 0.7266,
+    "risk_category": "High",
+    "top_factors": [
+      "low_purchase_frequency",
+      "high_return_rate"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00047",
+    "prediction": "low_risk",
+    "risk_score": 0.3131,
+    "risk_category": "Low",
+    "top_factors": [
+      "high_return_rate"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00048",
+    "prediction": "medium_risk",
+    "risk_score": 0.5738,
+    "risk_category": "Medium",
+    "top_factors": [
+      "low_purchase_frequency"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00049",
+    "prediction": "medium_risk",
+    "risk_score": 0.4064,
+    "risk_category": "Medium",
+    "top_factors": [
+      "frequent_support_contact"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  },
+  {
+    "customer_id": "CUST00050",
+    "prediction": "medium_risk",
+    "risk_score": 0.3466,
+    "risk_category": "Medium",
+    "top_factors": [
+      "high_return_rate",
+      "frequent_support_contact"
+    ],
+    "model_version": "baseline-v1",
+    "prediction_timestamp": "2024-12-31 23:33:00"
+  }
+]
